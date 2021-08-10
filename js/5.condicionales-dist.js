@@ -1,0 +1,1 @@
+console.log("Condicionales ");let num=5;num>0&&console.log(`${num} es mayor que: 0`),num>0&&(console.log(`${num} es mayor que: 0`),console.log(`${num} es mayor que: 0`)),num>0?console.log(`${num} es mayor que: 0`):console.log(`${num} es menor que: 0`),num>0?console.log(`${num} es mayor que: 0`):console.log(`${num} es menor que: 0`);
