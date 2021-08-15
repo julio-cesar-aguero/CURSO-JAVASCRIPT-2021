@@ -1,1 +1,1 @@
-let names=["Paco","José","Paula","María"];for(const o of names)console.log(o);
+let names=["Paco","José","Paula","María"];for(const a in names)console.log(a);
