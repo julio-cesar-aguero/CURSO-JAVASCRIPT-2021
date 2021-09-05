@@ -1,0 +1,1 @@
+const suma=(o,s)=>o+s;let resultado=suma(3,6);console.log(resultado);
